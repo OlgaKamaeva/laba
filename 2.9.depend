@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586542706 source:c:\users\Юыќур.lenovo-pc\desktop\2.9\main.cpp
+	<iostream>
+	"soft.h"
+	<cstring>
+
+1586541551 c:\users\Юыќур.lenovo-pc\desktop\2.9\soft.h
+	<iostream>
+	<cstring>
+
+1586541710 source:c:\users\Юыќур.lenovo-pc\desktop\2.9\soft.cpp
+	<iostream>
+	<cstring>
+	"Soft.h"
+
